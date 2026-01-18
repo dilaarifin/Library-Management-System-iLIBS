@@ -1,0 +1,22 @@
+MADE BY:
+NUR FADHILAH BINTI ARIFIN (2022764227)
+NINA SALINA BINTI SUZUKI (2022971209)
+NUR SAKINAH BINTI JAMIRAN (2022777155)
+NURUL JANNAH BINTI MOHD ROSNI (2022128721) 
+
+#####LOGIN INFO####
+
+1. Login Member          >>>>> Bank Account (User Bank Account)
+
+   username: amin1              Acc.num: 1
+   password: 124                password: 123
+
+2. Login Staff
+
+   username: fio
+   password: 456
+
+3. Login ICT
+
+   username: Wong
+   password: 95520
